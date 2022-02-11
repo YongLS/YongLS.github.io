@@ -1,0 +1,25 @@
+.content{
+    padding-top: 20px;
+    padding-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top-bar-style{
+    padding-top: 50px;
+    padding-bottom: 5px;
+    background-color: rgb(245, 245, 245);
+}
+
+.myName{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.content-title{
+    font-weight: bold; 
+    text-decoration: underline;
+}
+
+.content-text{
+    line-height: 1.5;
+}
